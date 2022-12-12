@@ -6,7 +6,7 @@ Refactor Horiseon marketing agency codebase for accessibility standards and SEO.
 
 ## Link to deployed application
 
-https://chirbirita.github.io/refactor-horiseon-agency-website/
+[Horiseon marketing agency website](https://chirbirita.github.io/refactor-horiseon-agency-website/)
 
 ## Usage
 
