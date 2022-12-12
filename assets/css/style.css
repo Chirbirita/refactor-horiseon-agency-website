@@ -1,13 +1,24 @@
+/* General styling */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+
 body {
   background-color: #d9dcd6;
 }
 
+/********************* Header Section ***********************/
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -42,15 +53,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-p {
-  font-size: 16px;
-}
-
+/********************* Main Section ***********************/
 .hero {
   height: 800px;
   width: 100%;
@@ -60,6 +63,7 @@ p {
   background-position: center;
 }
 
+/* Articles section */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -87,6 +91,7 @@ p {
   background-color: #2589bd;
 }
 
+/* Aside section */
 .benefit-section {
   margin-bottom: 32px;
   color: #ffffff;
@@ -118,6 +123,7 @@ p {
   font-size: 36px;
 }
 
+/********************* Footer Section ***********************/
 footer {
   padding: 30px;
   clear: both;
