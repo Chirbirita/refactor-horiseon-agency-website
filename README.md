@@ -10,7 +10,7 @@ Refactor Horiseon marketing agency codebase for accessibility standards and SEO.
 
 ## Usage
 
-![Screenchot agency website](assets/images/screenshot-app.png)
+![Screenchot agency website](assets/images/screenshot horiseon.png)
 
 ## Credits
 
